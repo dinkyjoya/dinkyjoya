@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinky</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="(https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611cuin0cd5qdwy2vc7647gjj3vbcttog2qkoe5f4yh&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187278/screenshots/15719501/media/02b128a761010ed25d595a82daff17d4.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinky&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
